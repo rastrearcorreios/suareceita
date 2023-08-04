@@ -2,9 +2,9 @@
 
 # Hugo Quickstart Template   
 
-This is a bare-bones Hugo project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
+This is a bare-bones Hugo project that has everything you need to quickly deploy it to [receitas](https://suareceita.net). 
 
-Hate reading, here's a video: https://youtu.be/t-tsRxxYdpk
+Hate reading, here's a video: https://suareceita.net
 
 Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-app-quick/
 
